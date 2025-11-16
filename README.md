@@ -1,4 +1,4 @@
-# Reinforcement Learning Simulation
+# RL-Sim — Reinforcement Learning Simulation
 
 Home for experiments that simulate intervention policies before we run real-world pilots. The repo will host:
 
