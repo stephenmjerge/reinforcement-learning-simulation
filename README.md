@@ -6,7 +6,7 @@ Home for experiments that simulate intervention policies before we run real-worl
 - Policy training scripts and evaluation notebooks.
 - Reporting utilities that summarize safety signals for the ethics board.
 
-See `ROADMAP.md` for the current build order and `LAUNCHPAD/project-priorities.md` for near-term deliverables.
+See `ROADMAP.md` for the current build order and `meta/launchpad/project-priorities.md` for near-term deliverables.
 
 ## Current Prototype
 
@@ -34,4 +34,3 @@ exploration rates.
 Install matplotlib (`pip install matplotlib`) and run `python scripts/plot_severity.py`
 to produce `docs/severity_mean_rewards.png`, our first sketch for the simulation
 paper. Details live in `docs/figures.md`.
-
